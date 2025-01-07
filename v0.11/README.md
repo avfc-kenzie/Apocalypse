@@ -14,15 +14,15 @@ Changes:
 - Changed and Added a few print statements for more clarity, particularly in the starting setup segment
 
 Future changes:
-    More stages
-    More achievements
-    Potential rearrangements of rooms/objects
-    Sound Effects
-    Refining of print displays
-    Ally and relationship mechanics
-    Saving & loading
-    Stage creator (maybe)
-    Random stage generation (maybe)
-    Stage Map
-    Difficulty settings (limited inventory space, no map, more death opportunities)
+- More stages
+- More achievements
+- Potential rearrangements of rooms/objects
+- Sound Effects
+- Refining of print displays
+- Ally and relationship mechanics
+- Saving & loading
+- Stage creator (maybe)
+- Random stage generation (maybe)
+- Stage Map
+- Difficulty settings (limited inventory space, no map, more death opportunities)
   
